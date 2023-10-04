@@ -10,3 +10,9 @@ Meanwhile I hope it can be of any assitance or help.
 
 The updated version named "DecayModelling.nb" is the clean version of the pervious code. I wrote is 
 from groundup to make it more clear and modular. 
+
+```mermaid
+graph LR;
+A(Kinetic Models in Mathematica.nb)-->B(DecayModelling.nb);
+
+```
