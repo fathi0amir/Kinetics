@@ -7,3 +7,5 @@ with a rise feature or a conditions that the decay is proceeded after a spike (r
 
 I think it is a bit messy but I hope I get some spare time to organize this and comments even more thoroughly. 
 Meanwhile I hope it can be of any assitance or help. 
+
+The updated version named 
